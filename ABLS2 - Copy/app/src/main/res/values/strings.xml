@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ABLS2</string>
+    <string name="next">Next</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="roster">View Roster</string>
+    <string name="oppoRoster">View Other Teams Roster</string>
+    <string name="matches">View Matches</string>
+    <string name="team">View Team</string>
+    <string name="points">Points</string>
+    <string name="teamName">Team Name</string>
+    <string name="teamGreeting">Select a team:</string>
+    <string name="playerGreeting">Select a Player:</string>
+    <string name="score">Keep Score</string>
+    <string name="startMatch">Start Match</string>
+    <string name="optionSelect">Select an option:</string>
+    <string name="gameOne">Start Game 1</string>
+    <string name="matchGreeting">Matches Tonight:</string>
+
+    <string name="home">Home Player</string>
+    <string name="away">Away Player</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="ten">10</string>
+    <string name="timeout">Timeout</string>
+    <string name="safety">Safety</string>
+    <string name="endgame">End Game</string>
+    <string name="reset">Reset</string>
+
+</resources>

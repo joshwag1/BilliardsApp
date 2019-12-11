@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="?android:listSeparatorTextViewStyle"
+        android:id="@+id/team_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/teamName" />
+
+    <TextView
+        android:id="@+id/team_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/optionSelect" />
+
+    <Button
+        android:id="@+id/view_roster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/oppoRoster" />
+
+    <Button
+        android:id="@+id/start_match"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/startMatch" />
+
+
+</LinearLayout>
