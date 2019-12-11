@@ -28,20 +28,19 @@ Screen 7 - MatchInfoActivity/MatchInfoFragment
 Screen 8 - GameActivity/GameFragment (recycles depending on the number of games per player match and team match)
 
 
-Background - makes calls to the api to retrieve and set information on the database.
+Background - Makes calls to the api to retrieve and set information on the database
 
-Game - keeps track of important information for each game.
+Game - Keeps track of important information for each game
 
-Match - singleton that keeps tracks of the entire match, including a list of every game played.
+Match - Singleton that keeps tracks of the entire match, including a list of every game played
 
+Player - For use with the login function call to the api.
 
-Player - for use with the login function call to the api.
+Player2 - For use with the getRoster function call to the api (for opposing players)
 
-Player2 - for use with the getRoster function call to the api (for opposing players)
+Team - For use with the getTeams function call to the api (main players teams)
 
-Team - for use with the getTeams function call to the api (main players teams)
+Team2 - For use with the getRoster function call to the api (opposing teams)
 
-Team2 - for use with the getRoster function call to the api (opposing teams)
-
-TeamList/MatchList - singletons for holding information about the mainplayers teams and matches for that night.
+TeamList/MatchList - Singletons for holding information about the mainplayers teams and matches for that night
 
