@@ -27,6 +27,7 @@ Screen 7 - MatchInfoActivity/MatchInfoFragment
 
 Screen 8 - GameActivity/GameFragment (recycles depending on the number of games per player match and team match)
 
+
 Other Classes - 
 
 Background - Makes calls to the api to retrieve and set information on the database
