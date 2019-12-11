@@ -3,7 +3,7 @@ An android application that obtains player and team information from Amateur Bil
 
 ABLS2-Copy/app/src/main/java/com/example/abls for code 
 
-Classes -
+Activity Classes -
 
 Screen 1 - Start (No name and password needed for test version)
 
@@ -27,6 +27,7 @@ Screen 7 - MatchInfoActivity/MatchInfoFragment
 
 Screen 8 - GameActivity/GameFragment (recycles depending on the number of games per player match and team match)
 
+Other Classes - 
 
 Background - Makes calls to the api to retrieve and set information on the database
 
