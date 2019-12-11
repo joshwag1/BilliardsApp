@@ -4,7 +4,7 @@ An android application that obtains player and team information from Amateur Bil
 ABLS2-Copy/app/src/main/java/com/example/abls for code 
 
 Classes - 
-Screen 1 - Start (No name and password needed for test version)
+Screen 1 - Start (No name and password needed for test version)\n
 Screen 2 - TeamListActivity/TeamListFragment
 Screen 3 - TeamActivity/TeamFragment
 Screen 4.1 - ScoreActivity/ScoreFragment
